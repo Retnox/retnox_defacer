@@ -12,7 +12,7 @@ banner = """
                     𝙍𝙚𝙩𝙣𝙤𝙭
                auto defacer
 
-by faris
+ #author: faris
 
 
 For Fun Purpose
